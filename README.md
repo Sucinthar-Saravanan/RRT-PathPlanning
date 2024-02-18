@@ -1,0 +1,1 @@
+An interactive path planning system utilizing the RRT algorithm, allowing users to draw custom obstacle layouts for various applications such as robotics navigation, autonomous vehicles, and video game development
